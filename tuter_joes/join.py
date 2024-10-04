@@ -1,5 +1,4 @@
 
-
 # join
 para =["ram","sham",'kumar']
 print(para)

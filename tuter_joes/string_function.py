@@ -50,7 +50,7 @@ test_strings = [
     #check_string_properties(s)
 
 para="     Lorem ipsum dolor sit       amet    "
-def para_fun():
+def para_function():
     print(f'{para}')
     print(f'{len(para)}')
 
@@ -63,4 +63,4 @@ def para_fun():
 
     print(f'{len(para.split())}')
     print(f'{para.split()}')
-para_fun()
+para_function()
